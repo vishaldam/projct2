@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://vikram7.github.io/sitemap.xml
